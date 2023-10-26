@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=부자가-nl-되고%20싶어요&animation=fadeIn&height=200&stroke=ffd700)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=열심히%20살자&animation=fadeIn&height=200&stroke=ffd700)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahnichan&show_icons=true&theme=dracula)](https://github.com/ahnichan/github-readme-stats)
 
